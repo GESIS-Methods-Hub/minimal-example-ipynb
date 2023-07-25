@@ -1,6 +1,6 @@
-# Minimal Example of Tutorial in Jupyter Notebook
+# Minimal Example of Tutorial in Jupyter Notebook (using Quarto Markdown)
 
-[index.ipynb](index.ipynb) illustrates all the **required** metadata used by [`andrew`](https://github.com/GESIS-Methods-Hub/andrew).
+[index.ipynb](index.ipynb) illustrates all the **required** metadata used by [`andrew`](https://github.com/GESIS-Methods-Hub/andrew). **We recommend to use [Quarto JupyterLab Extension](https://quarto.org/docs/tools/jupyter-lab-extension.html)**.
 
 ## Metadata
 

@@ -1,6 +1,6 @@
 # Minimal Example of Tutorial in Jupyter Notebook
 
-[index.ipynb](index.ipynb) show all the metadata used in Methods Hub.
+[index.ipynb](index.ipynb) illustrates all the **required** metadata used by [`andrew`](https://github.com/GESIS-Methods-Hub/andrew).
 
 ## Metadata
 
@@ -14,7 +14,7 @@
 
 ## Supported Features
 
-| Feature | [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub) | Notes |
+| Feature | [`andrew`](https://github.com/GESIS-Methods-Hub/andrew) | Notes |
 | --- | --- | --- |
 | Pandoc’s Markdown | 👍 | |
 | Callout Blocks | 👍 | |
@@ -28,4 +28,4 @@
 
 ## Binder
 
-The link to Binder will launch the default Jupyter Lab interface.
+This repository doesn't list any [configuration file](https://mybinder.readthedocs.io/en/latest/using/config_files.html) for Binder and will be launch with the default [JupyterLab IDE](https://jupyterlab.readthedocs.io/).
